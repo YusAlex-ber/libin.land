@@ -47,3 +47,23 @@ V2.6:
 - Author-selected image colors are now preserved exactly as supplied.
 - The About photo remains in color.
 - The large historic start-page hero remains monochrome.
+
+
+V2.9 collected review changes:
+1. Start-page hero aligned to featured-text grid.
+2. Long-text openings tightened; work titles enlarged.
+3. Clear internal headings use book-like spacing.
+4. Removed the old-Wix archive-copy notice from all 63 works.
+5. Corrected explicit typo: “Глава перва” -> “Глава первая”.
+7. Removed temporary video notices and technical search explanation.
+
+Point 6: punctuation/quotation candidates were deliberately NOT changed yet.
+They remain a separate editorial correction pass.
+
+
+V2.10 image pass:
+- The illustration from “И аз воздам — часть первая” is now also used for parts two and three.
+- Article-image backgrounds are transparent, so portrait images no longer sit on hard white side-bands.
+- Added the confirmed credit “Фото автора” to the illustration in “Тридцать три”.
+- Other image credits are left untouched until their authorship is individually confirmed.
+- The punctuation/quotation correction candidates from review point 6 remain unapplied.
