@@ -1,0 +1,11 @@
+LIBIN.LAND — GitHub Pages test build
+
+This package is structured for direct upload to the root of a GitHub repository.
+index.html must remain at repository root.
+
+The six video cards already have stable IDs:
+video-1 through video-6
+and data-video-slot attributes.
+The actual video files/embeds can therefore be added later without redesigning the page.
+
+Do not point libin.land to GitHub until the temporary GitHub Pages address has been checked.
